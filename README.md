@@ -13,7 +13,7 @@ Overall, this [project provides a simple interface to perform packet sniffing ta
 
 ## Packet-Sniffer | Tools & Technology
 
-* <img src="https://img.shields.io/badge/py_charm-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+* <img src="![image](https://github.com/umairsattar142/Packet-Sniffer/assets/128280607/5305c129-3c79-4ee0-b8eb-f88a88d78d9b)" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
